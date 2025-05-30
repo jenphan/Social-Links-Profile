@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/social-links-profile-card-with-semantic-html-bem-and-accessible-css-Pl0dMcrYWM)
+- Live Site URL: [Live site](https://your-live-site-url.com)
 
 ## My process
 
